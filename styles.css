@@ -1,0 +1,25 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    display: flex;
+    padding: 2rem 4em;
+    flex-direction: column;
+    align-items: baseline;
+    width: 100vw;
+}
+
+.site {
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+.desc {
+    width: 50%;
+    flex-basis: 50%;
+    margin-right: 2rem;
+}
+
+.site img {
+    width: 50%;
+    flex-basis: 50%;
+}
